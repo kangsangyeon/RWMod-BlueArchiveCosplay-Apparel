@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<!-- Pandemonium Society -->
+
+
+	<HairDef>
+		<label>Makoto</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/makoto</texPath>
+		<defName>Makoto</defName>
+		<hairTags>
+			<li>Punk</li>
+			<li>Rural</li>
+			<li>Tribal</li>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+
+
+	<HairDef>
+		<label>Satsuki</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/satsuki</texPath>
+		<defName>Satsuki</defName>
+		<hairTags>
+			<li>Punk</li>
+			<li>Rural</li>
+			<li>Tribal</li>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+
+
+	<HairDef>
+		<label>Iroha</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/iroha</texPath>
+		<defName>Iroha</defName>
+		<hairTags>
+			<li>Punk</li>
+			<li>Rural</li>
+			<li>Tribal</li>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+
+	<HairDef>
+		<label>Ibuki</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/ibuki</texPath>
+		<defName>Ibuki</defName>
+		<hairTags>
+			<li>Punk</li>
+			<li>Rural</li>
+			<li>Tribal</li>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+
+	<HairDef>
+		<label>Pandemonium_Normal</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/pandemoniumnormal</texPath>
+		<defName>Pandemonium_Normal</defName>
+		<hairTags>
+			<li>Punk</li>
+			<li>Rural</li>
+			<li>Tribal</li>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+
+
+	<HairDef>
+		<label>Chiyo</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/chiyo</texPath>
+		<defName>Chiyo</defName>
+		<hairTags>
+			<li>Punk</li>
+			<li>Rural</li>
+			<li>Tribal</li>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+
+
+	<!-- Prefect Team -->
+
+
+	<HairDef>
+		<label>Hina</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/hina</texPath>
+		<defName>Hina</defName>
+		<hairTags>
+			<li>Punk</li>
+			<li>Rural</li>
+			<li>Tribal</li>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+
+
+	<!-- GSC -->
+
+
+	<HairDef>
+		<label>AronaGSC</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/aronagsc</texPath>
+		<defName>AronaGSC</defName>
+		<hairTags>
+			<li>Punk</li>
+			<li>Rural</li>
+			<li>Tribal</li>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+
+
+</Defs>
