@@ -11,8 +11,4 @@
 		BlueArchive Cosplay - Apparel
 	</description>
 
-	<loadAfter>
-		<li>CETeam.CombatExtended</li>
-	</loadAfter>
-
 </ModMetaData>
